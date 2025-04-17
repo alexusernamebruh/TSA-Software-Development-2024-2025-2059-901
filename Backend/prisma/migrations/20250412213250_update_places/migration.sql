@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Place" ADD COLUMN     "ratingsSum" DOUBLE PRECISION NOT NULL DEFAULT 0;
